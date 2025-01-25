@@ -1,0 +1,185 @@
+# Put the name of your locale in the same language
+Locale Name: 'کوردی ناوەڕاست'
+# Currently on Subscriptions, Playlists, and History
+'This part of the app is not ready yet. Come back later when progress has been made.': >-
+  ئە بەشە لە ئەپلیکەیشنەکە هێشتا بەردەست نییە. لە کاتێکی دواتردا وەرەوە کە پێشکەوتنێک
+  رویداوە.
+
+# Webkit Menu Bar
+File: 'پەڕگە'
+Quit: 'دەرچوون'
+Edit: 'دەستکاری'
+Undo: 'پووچکردنەوە'
+Redo: 'هێنانەوە'
+Cut: 'بڕین'
+Copy: 'لەبەرگرتنەوە'
+Paste: 'لکاندن'
+Delete: 'سڕینەوە'
+Select all: 'دیاریکردنی هەمووی'
+Reload: 'بارکردنەوە'
+Force Reload: 'بارکردنەوەی بەزۆر'
+Toggle Developer Tools: 'زامنی ئامرازەکانی گەشەپێدەر'
+Actual size: 'قەبارەی ڕاستەقینە'
+Zoom in: 'زووم کردنە ناوەوە'
+Zoom out: 'زووم کردنە دەرەوە'
+Toggle fullscreen: 'شاشەکەت پرکەرەوە'
+Window: 'پەنجەرە'
+Minimize: 'بچوک کردنەوە'
+Close: 'داخستن'
+Back: 'گەڕانەوە'
+Forward: 'چونەپێشەوە'
+
+Version {versionNumber} is now available!  Click for more details: 'ئێستا وەشانی {versionNumber}
+  بەردەستە..بۆ زانیاری زۆرتر کرتە بکە'
+Download From Site: 'لە وێبگەوە دایگرە'
+A new blog is now available, {blogTitle}. Click to view more: 'بڵۆگێکی نوێ بەردەستە،
+  {blogTitle}. کلیک بکە بۆ بینینی زیاتر'
+
+Global:
+  Sort By: 'بگەڕی بە'
+
+# Search Bar
+Search / Go to URL: 'گەڕان / بڕۆ بۆ لینک'
+  # In Filter Button
+Search Filters:
+  Search Filters: 'فیلتەری گەڕان'
+  Sort By:
+    Most Relevant: 'گرنگترین'
+    Rating: 'ڕەیتینگ'
+    Upload Date: 'کاتی بڵاوکردنەوە'
+    View Count: 'ژماری بینراو'
+  Time:
+    Time: 'کات'
+    Any Time: 'هەرکاتێک'
+    Last Hour: 'کاتژمێری پێشوو'
+    Today: 'ئەمڕۆ'
+    This Week: 'ئەم هەفتەیە'
+    This Month: 'ئەم مانگە'
+    This Year: 'ئەم ساڵە'
+  Type:
+    Type: 'جۆر'
+    All Types: 'گشت جۆر'
+    Videos: 'ڤیدیۆکان'
+    Channels: 'کەناڵەکان'
+    #& Playlists
+  Duration:
+    Duration: 'ماوە'
+    All Durations: 'گشت ماوەکان'
+    Short (< 4 minutes): 'کورت (< ٤ خولەک)'
+    Long (> 20 minutes): 'درێژ (> ٢٠ خولەک)'
+  # On Search Page
+  Search Results: 'ئەنجامی گەڕان'
+  Fetching results. Please wait: 'هێنانی ئەنجامەکان. تکایە چاوەڕێکە'
+  Fetch more results: 'ئەنجامی زیاتر بێنە'
+# Sidebar
+Subscriptions:
+    # On Subscriptions Page
+  Subscriptions: 'بەشداریکراوەکان'
+  'Your Subscription list is currently empty. Start adding subscriptions to see them here.': 'لیستی
+    بەشداریکرداوەکانت لە ئێستادا بەتاڵە. بەشداری لە کەناڵێک بکە بۆ ئەوەی بیانبینیت'
+  Load More Videos: ڤیدیۆی زیاتر بهێنە
+  This profile has a large number of subscriptions. Forcing RSS to avoid rate limiting: .ئەم
+    پرۆفایلە ژمارەیەکی زۆری هەیە لە سەبسکریپشن. بۆ دورکەوتنەوە لە سنوور دانان (رسس)
+    بەکاردەهێندرێت
+Trending:
+  Trending: 'زۆر باسکراو'
+Most Popular: 'بەناوبانگترین'
+Playlists: 'پلەیلیست'
+User Playlists:
+  Your Playlists: 'پلیەلیستەکانت'
+History:
+  # On History Page
+  History: 'مێژوو'
+  Watch History: 'لیستی سەیرکراو'
+  Your history list is currently empty.: 'لیستی سەیرکراوەکانت بەتاڵە.'
+Settings:
+  # On Settings Page
+  Settings: 'دەستکاریکردن'
+  General Settings:
+    General Settings: 'دەستکاریکردنی گشتی'
+    Check for Updates: 'بزانە تازەکاری هاتووە'
+    Check for Latest Blog Posts: 'چێکی تازەترین بلۆگ بکە'
+    Fallback to Non-Preferred Backend on Failure: 'گەڕانەوە بۆ سیستەمە ناخوازراوەکە
+      لەکاتی فەشەلدا'
+    Enable Search Suggestions: 'پێشنیارکردن بەکاربخە لەکاتی گەڕاندا'
+  Theme Settings: {}
+  Player Settings: {}
+  Data Settings:
+    Unable to read file: 'ناتواندرێت فایلەکە بخوێندرێتەوە'
+    Unable to write file: 'ناتواندریت فایلەکە بنوسرێت'
+    Unknown data key: 'کلیلی داتای نەناسراو'
+    How do I import my subscriptions?: 'چۆن بەشدارییەکانم داخڵ بکەم؟'
+    Manage Subscriptions: بەشدارییەکانت رێکبخە
+  Proxy Settings:
+    Error getting network information. Is your proxy configured properly?: کێشە لە
+      وەرگرتنی زانیاری نێتۆرک. ئایە پرۆکسێکەت بە رێکوپێکی رێکخراوە؟
+    City: شار
+    Region: ناوچە
+    Country: وڵات
+    Ip: ئەدرێسی ئەلکترۆنی
+    Your Info: زانیاریت
+    Test Proxy: تاقیکردنەوەی پرۆکسی
+    Clicking on Test Proxy will send a request to: کلیکردن لەسەر تێستی پرۆکسی داواکارییەک
+      دەنێریت بۆ
+    Proxy Port Number: ژمارەی پۆرتی پرۆکسی
+    Proxy Host: پرۆکسی بڵاوکەر
+    Proxy Protocol: پرۆتۆکۆڵی پڕۆکسی
+    Enable Tor / Proxy: تۆر/پرۆکسی بەکاربخە
+    Proxy Settings: گۆڕانکاری پرۆکسی
+  The app needs to restart for changes to take effect. Restart and apply change?: ئەم
+    ئەپڵیکەیشنە دەبێت دووبارە بکرێتەوە بۆ ئەوەی گۆڕانکارێکان بگانە ئەنجام. دووبارە
+    کردنەوە و چەسپکردنی گۆڕانکارێکان؟
+About:
+  #On About page
+  About: 'دەربارە'
+  #& About
+  Donate: دۆنەیشن
+  these people and projects: ئەم کەسانە و پڕۆژانە
+  FreeTube is made possible by: فریتوب بونی هەیە بەهۆی
+  Translate: تەرجومە
+  room rules: یاسای ژوورەکە
+  Please read the: تکایە شتەکە بخوێنەوە
+  Chat on Matrix: Matrix موناقەشە کە لە
+  Mastodon: ماستۆدۆن
+  Email: نامەی ئەلکترۆنی
+  Blog: بلۆگ
+  Website: وێبسایت
+  Please check for duplicates before posting: تکایە چێک بکە بۆ دووبارە پێش پۆستکردن
+  GitHub issues: GitHub کێشاکانی
+  Report a problem: کێشەیەک ڕاگەیەنە
+  FAQ: پرسیارانەی زۆر دەکرێن
+  FreeTube Wiki: ویکی فریتیوب
+  Help: یارمەتی
+  GitHub releases: GitHub دەرچونەکانی
+  Downloads / Changelog: دابەزاندنەکان / لیستی گۆڕانکاری
+  Source code: سەرچاوەی کۆد
+  Beta: تاقیکارییە
+Profile:
+  Profile Select: 'پرۆفایلەکە دیاریکە'
+  All Channels: 'هەموو کەناڵەکان'
+  Profile Manager: 'ڕێخەری پڕۆفایل'
+  Create New Profile: 'پڕۆفایلێکی نوێ دروستبکە'
+  Edit Profile: 'پڕۆفایل دەستکاری بکە'
+  Color Picker: 'ڕەنگ هەڵبژاردەر'
+  Custom Color: 'رەنگی تایبەت'
+  Profile Preview: 'پڕۆفایل بیشاندە'
+  Create Profile: 'پرۆفایل دروستبکە'
+  Update Profile: 'پرۆفایل تازەبکەرەوە'
+  Make Default Profile: 'بیکە بە پڕۆفایلی ئەسایی'
+  Delete Profile: 'پڕۆفایلەکە بسڕەوە'
+  Are you sure you want to delete this profile?: 'ئایە دڵنیایت کە دەتەوێت ئەم پڕۆفایلە
+    بسڕیتەوە؟'
+  All subscriptions will also be deleted.: 'هەموو بەشداریکردنەکانیش بە هامەنشێوە دەسڕێنەوە.'
+  Your profile name cannot be empty: 'ناوی پڕۆفایلەکەت نابێت بەتاڵبێت'
+  Profile has been created: 'پڕۆفایلەکە دروستکرا'
+  Profile has been updated: 'پرۆفایلەکە تازەکرایەوە'
+  Your default profile has been set to {profile}: 'پرۆفایلە ئاساییەکەت دانراوە بۆ
+    {profile}'
+  Removed {profile} from your profiles: 'سڕاوەتەوە لە پرۆفایلەکانت {profile}'
+Channel:
+  Playlists: {}
+New Window: پەنجەرەی نوێ
+Go to page: بڕۆ بۆ {page}
+Preferences: هەڵبژاردەکان
+Are you sure you want to open this link?: دڵنیایت دەتەوێت ئەم بەستەرە بکەیتەوە؟
+Open New Window: کردنەوەی پەنجەرەیەکی نوێ
