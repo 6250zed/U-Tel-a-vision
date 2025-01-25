@@ -1,0 +1,11 @@
+.videoDescription {
+  overflow-y: auto;
+  max-block-size: 300px;
+}
+
+.description {
+  font-family: Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  font-size: 17px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}

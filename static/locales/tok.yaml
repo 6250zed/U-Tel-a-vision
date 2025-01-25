@@ -1,0 +1,58 @@
+# Put the name of your locale in the same language
+Locale Name: 'toki pona'
+'This part of the app is not ready yet. Come back later when progress has been made.': >-
+  ilo ni li pona ala. tenpo kama la, o kama.
+
+# Webkit Menu Bar
+File: 'ijo'
+Quit: 'tawa'
+Edit: 'ante'
+Undo: 'tawa monsi'
+Redo: 'tawa sinpin'
+Cut: 'kama jo e ni'
+Copy: 'jasima'
+Paste: 'pali jasima'
+Delete: 'weka'
+Select all: 'kama jo e sitelin ale'
+Reload: 'kama sin'
+Force Reload: 'o kama sin'
+Toggle Developer Tools: 'ante e ilo pi jan nasin'
+Actual size: 'suli lon'
+Zoom in: 'lukin suli'
+Zoom out: 'lukin lili'
+Toggle fullscreen: 'ante e sitelin suli'
+Window: 'sitelin'
+Minimize: 'kama lili'
+Close: 'pini'
+Back: 'tawa monsi'
+Forward: 'tawa sinpin'
+Open New Window: 'open lon sitelin sin'
+
+Version {versionNumber} is now available!  Click for more details: 'ilo pi nanpa {versionNumber}
+  li lon! open la, sina ken sona mute.'
+Download From Site: 'poki e sitelin ni'
+A new blog is now available, {blogTitle}. Click to view more: 'lipu sin li lon. ona
+  li {blogTitle}. open la, sina ken lukin mute.'
+Are you sure you want to open this link?: 'sina wile ala wile open e ni?'
+
+# Search Bar
+Search / Go to URL: 'alasa / tawa lupa'
+Search Bar:
+  Clear Input: 'weka e sitelin'
+  # In Filter Button
+Search Filters:
+  Search Filters: 'alasa kepeken nasin'
+  Sort By:
+    Sort By: 'nasin li seme?'
+    Most Relevant: 'sama e wile sina'
+    Rating: 'pona'
+Settings:
+  # On Settings Page
+  General Settings: {}
+  Theme Settings: {}
+  Player Settings:
+    Screenshot: {}
+  SponsorBlock Settings: {}
+Video:
+  External Player: {}
+Tooltips: {}
